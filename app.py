@@ -12,4 +12,3 @@ if __name__ == '__main__':
 
     yaml_str = yaml.dump(result, default_flow_style=False)
     print(yaml_str)
-#    print("NASHWEEEEEEEEEEEEEEEEEEEEEEEEE")
